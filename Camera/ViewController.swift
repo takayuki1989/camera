@@ -38,4 +38,4 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate,UINaviga
 
 
 }
-
+//asd
